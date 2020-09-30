@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 int main() {
-	printf("¾ÆÀÌÄÜ ¸¸¼¼\n");
-	printf("¾ÆÀÌÄÜ ¸¸¼¼\n");
+	printf("ì•„ì´ì½˜ ë§Œì„¸\n");
+	printf("ì•„ì´ì½˜ ë§Œì„¸\n");
 
 	return 0;
 }
